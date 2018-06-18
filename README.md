@@ -7,6 +7,7 @@ some Hadoop codes
 （3）使用MapReduce程序，计算每个班级的平均分、最高分、最低分，以及所有学生的平均分、最高分和最低分。输出时，各个班级的平均分输出班级编号和平均分；所有学生的平均分只输出平均分。最高分、最低分需要输出班级编号、学生和成绩，如果有多个最高分和最低分，则需要输出所有的最高分和最低分。
 （4）编写MapReduce程序，按照优秀（>=90）、良好（[80,89]）、中等（[70,79]）、及格（[60,69]）和不及格（<60）给出各个班级和所有学生的成绩分布情况（即每个分数段的人数）。
 
-####WordCount.java 为（3）的解决
-####WordCount2.java 为（4）的解决
+#### WordCount.java 为（3）的解决
+#### WordCount2.java 为（4）的解决
+#### command 为编译执行命令
 运行结果如图所示：![image](https://github.com/doubiiot/Hadoop_Code/blob/master/result.png)
